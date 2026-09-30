@@ -47,7 +47,7 @@ c_telepathy* inj = new c_telepathy();
 c_logging* logg = new c_logging();
 
 int main() {
-	SetConsoleTitleA("telepathy | discord: elliieluvsu");
+	SetConsoleTitleA("telepathy | discord: .h6rny.");
 
 	HWND console_window = GetConsoleWindow();
 	SetLayeredWindowAttributes(console_window, 0, 235, LWA_ALPHA);
